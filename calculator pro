@@ -1,9 +1,9 @@
 print("""
       ====================================================
-      ==             calculator Germany        ==
+      ==       Taschenrechner author @hacker1347 github ==
       ====================================================
     """)
-print (thanks you use this tool. author @hacker1347 nickname hackerkid OK start)
+
 num1 = input("Gib die erste Zahl ein: ")
 oper = input("Welche Rechenoperation (+,-,*,/) soll durchgeführt werden? ")
 num2 = input("Gib die zweite Zahl ein: ")
