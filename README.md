@@ -1,4 +1,4 @@
-# tachenrechner-pyzero
+# calculator-pyzero
 # hello guys I'm happy if you use this tool
 (calculator-pyzero)
 (:
